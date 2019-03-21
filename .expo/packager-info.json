@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 22295,
+  "expoServerNgrokUrl": "https://qi-pm6.anonymous.weather-app.exp.direct",
+  "packagerNgrokUrl": "https://packager.qi-pm6.anonymous.weather-app.exp.direct",
+  "ngrokPid": 22314,
+  "webpackServerPort": null
+}
